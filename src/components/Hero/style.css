@@ -1,0 +1,44 @@
+.hero {
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+
+}
+
+.hero::after {
+  content: "";
+  display: block;
+  opacity: .4;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #ded1bd;
+}
+
+.hero * {
+  position: relative;
+  z-index: 2;
+}
+
+.hero h1 {
+  font-family: 'Fututa PT', 'Arial', sans-serif;
+  font-size: 60px;
+  font-family: “Courier New”, Courier, “Lucida Sans Typewriter”, “Lucida Typewriter”, monospace;
+  color: #d49e8d;
+  position: absolute;
+  bottom: 0;
+  left: 33%;
+}
+
+.hero img{
+  border-radius: 50%;
+  height: 65%;
+  border-color: #d49e8d;
+  border-style: double;
+  position: absolute;
+  left: 40%;
+  top: 16%;
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "My Favourite Movies",
+    "image": "/images/movieApp.png",
+    "info": "An app to search for and save a user's favourite movies. Created as a group project in a team of 4",
+    "link": "https://rcm6.github.io/my-favourite-movies/",
+    "repo": "https://github.com/Sonia-deni/my-favourite-movies"
+  },
+  {
+    "id": 2,
+    "name": "Weather App",
+    "image": "/images/weather.png",
+    "info": "An app to search for weather in different cities across the world. The user can then view the current weather and a 5 day forecast",
+    "link": "https://sonia-deni.github.io/City-Weather-Forecasts/",
+    "repo": "https://github.com/Sonia-deni/City-Weather-Forecasts"
+  },
+  {
+    "id": 3,
+    "name": "Daily Planner App",
+    "image": "/images/planner.png",
+    "info": "Plan the work day using this app, with colour coded time slots",
+    "link": "https://sonia-deni.github.io/Daily-Planner-App/",
+    "repo": "https://github.com/Sonia-deni/Daily-Planner-App"
+
+  },
+  {
+    "id": 4,
+    "name": "README Generator",
+    "image": "/images/readme.png",
+    "info": "An app to generate a professional README by taking in user input from the command line",
+    "link": "https://github.com/Sonia-deni/README-Generator",
+    "repo": "https://github.com/Sonia-deni/README-Generator"
+  },
+  {
+    "id": 5,
+    "name": "Profile Generator",
+    "image": "/images/profileGenerator.png",
+    "info": "An app to take a user input from the command line and generate a HTML page to display user profiles of a team",
+    "link": "https://github.com/Sonia-deni/Profile-Generator",
+    "repo": "https://github.com/Sonia-deni/Profile-Generator"
+  },
+  {
+    "id": 6,
+    "name": "Code Quiz",
+    "image": "/images/quiz.png",
+    "info": "A simple coding quiz where users can save their highscores using local storage",
+    "link": "https://sonia-deni.github.io/Code-Quiz/",
+    "repo": "https://github.com/Sonia-deni/Code-Quiz"
+  }
+]

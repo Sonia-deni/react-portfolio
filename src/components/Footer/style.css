@@ -1,0 +1,16 @@
+.footer {
+  min-height: 80px;
+  background: #ded1bd;
+  position: relative;
+  font-family: “Courier New”, Courier, “Lucida Sans Typewriter”, “Lucida Typewriter”, monospace;
+}
+
+.footer span {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3px;
+  background: #ded1bd;
+  text-align: center;
+}
