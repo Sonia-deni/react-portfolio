@@ -18,8 +18,8 @@ function Contact (){
               <h1>Contact Me</h1>
               <h4><FontAwesomeIcon icon={faEnvelope}/> sonia_deni@hotmail.com</h4>
               <h4><FontAwesomeIcon icon={faFilePdf}/> CV </h4>
-              <h4><a href="https://github.com/Sonia-deni"><FontAwesomeIcon icon={faSquareGithub} /></a></h4>
-              <h4><a href="https://www.linkedin.com/in/sonia-denikiewicz/"><FontAwesomeIcon icon={faLinkedin} /></a></h4>
+              <h4><a href="https://github.com/Sonia-deni"><FontAwesomeIcon icon={faSquareGithub} className="link" /></a></h4>
+              <h4><a href="https://www.linkedin.com/in/sonia-denikiewicz/"><FontAwesomeIcon icon={faLinkedin} className="link"/></a></h4>
             </Col>
             <Col size="md-6">
             <ContactForm/>
