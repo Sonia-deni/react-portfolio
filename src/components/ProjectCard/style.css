@@ -43,3 +43,14 @@
   text-decoration: none;
   color: #b08401;
 }
+
+.card {
+  border-radius: 8px;
+  transition: all 0.5s ease-in-out;
+}
+
+.card:hover {
+  box-shadow: inset 0px 0px 8px 
+#b08401, 0 0 15px 
+#b08401;
+}

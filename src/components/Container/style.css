@@ -1,4 +1,13 @@
 body{
     background-color: #faf6f2;
     font-family: “Courier New”, Courier, “Lucida Sans Typewriter”, “Lucida Typewriter”, monospace;
+    
+}
+
+a{
+    color: #d49e8d !important;
+}
+
+a :hover{
+    color: #b08401;
 }
