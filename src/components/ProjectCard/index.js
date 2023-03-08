@@ -1,4 +1,6 @@
 import React from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faSquareGithub } from '@fortawesome/free-brands-svg-icons';
 import "./style.css";
 
 function ProjectCard(props) {
@@ -13,10 +15,7 @@ function ProjectCard(props) {
           <strong>About: </strong>{props.info}
           </li>
           <li>
-          <a href={props.link}><strong>Deployed Page</strong></a>
-          </li>
-          <li>
-          <a href={props.repo}><strong>Github Repo</strong></a>
+          <a href={props.repo}><strong><FontAwesomeIcon icon={faSquareGithub} className="gitLink" /></strong></a>
           </li>
         </ul>
       </div>

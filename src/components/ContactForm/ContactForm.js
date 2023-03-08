@@ -1,32 +1,22 @@
-import React from "react";
+import React, {useState} from "react";
 import "./style.css";
 
-class ContactForm extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {value: 'Enter your message here'};
 
-    this.handleChange = this.handleChange.bind(this);
-    this.handleSubmit = this.handleSubmit.bind(this);
-  }
+function ContactForm() {
+  const [message, setMessage] = useState("Please leave a comment");
 
-  handleChange(event) {
-    this.setState({value: event.target.value});
-  }
+  const handleSubmit = e => {
+    e.preventDefault();
+    alert('Thank you for your message: ' + message);
+  };
 
-  handleSubmit(event) {
-    alert('Thank you for your message: ' + this.state.value);
-    event.preventDefault();
-  }
-
-  render() {
-    return (
-      <form onSubmit={this.handleSubmit}>
-          <input type="text" value={this.state.value} onChange={this.handleChange} />
-        <input type="submit" value="Submit" />
+  return (  
+      <form onSubmit={handleSubmit}>
+      <textarea type="textArea" className="message" value={message} onChange={e => setMessage(e.target.value)} />
+      <input type="submit" value="Submit" className="messageSubmit"/>
       </form>
-    );
-  }
+  );
+  
 }
 
 export default ContactForm;

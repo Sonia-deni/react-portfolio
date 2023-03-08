@@ -4,8 +4,9 @@ body{
     
 }
 
-.link {
+.fa {
     color: #d49e8d;
+    min-height: 2rem;
 }
 
 a :hover{
