@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-portfolio/home/static/css/main.905ee9e8.css",
-    "main.js": "/react-portfolio/home/static/js/main.620ec14f.js",
-    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/home/static/js/787.a2cb61a6.chunk.js",
-    "static/media/movieApp.png": "/react-portfolio/home/static/media/movieApp.94ce22950d5e9b7bf06b.png",
-    "static/media/whiteswirls.png": "/react-portfolio/home/static/media/whiteswirls.99dc306ca4bd45cade8a.png",
-    "static/media/profile-pic.png": "/react-portfolio/home/static/media/profile-pic.5a30209fcb0a42d7a8b6.png",
-    "static/media/weather.png": "/react-portfolio/home/static/media/weather.5368d7fc96328b912ff7.png",
-    "static/media/readme.png": "/react-portfolio/home/static/media/readme.c1141f4d0a85201abef2.png",
-    "static/media/planner.png": "/react-portfolio/home/static/media/planner.e252d41af332c3cafb4e.png",
-    "static/media/profileGenerator.png": "/react-portfolio/home/static/media/profileGenerator.df3d0a60de6cbe8cad35.png",
-    "static/media/quiz.png": "/react-portfolio/home/static/media/quiz.cb920512dbbf8c275782.png",
-    "index.html": "/react-portfolio/home/index.html",
-    "main.905ee9e8.css.map": "/react-portfolio/home/static/css/main.905ee9e8.css.map",
-    "main.620ec14f.js.map": "/react-portfolio/home/static/js/main.620ec14f.js.map",
-    "787.a2cb61a6.chunk.js.map": "/react-portfolio/home/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.905ee9e8.css",
+    "main.js": "/react-portfolio/static/js/main.a6621b2d.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/movieApp.png": "/react-portfolio/static/media/movieApp.94ce22950d5e9b7bf06b.png",
+    "static/media/whiteswirls.png": "/react-portfolio/static/media/whiteswirls.99dc306ca4bd45cade8a.png",
+    "static/media/profile-pic.png": "/react-portfolio/static/media/profile-pic.5a30209fcb0a42d7a8b6.png",
+    "static/media/weather.png": "/react-portfolio/static/media/weather.5368d7fc96328b912ff7.png",
+    "static/media/readme.png": "/react-portfolio/static/media/readme.c1141f4d0a85201abef2.png",
+    "static/media/planner.png": "/react-portfolio/static/media/planner.e252d41af332c3cafb4e.png",
+    "static/media/profileGenerator.png": "/react-portfolio/static/media/profileGenerator.df3d0a60de6cbe8cad35.png",
+    "static/media/quiz.png": "/react-portfolio/static/media/quiz.cb920512dbbf8c275782.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.905ee9e8.css.map": "/react-portfolio/static/css/main.905ee9e8.css.map",
+    "main.a6621b2d.js.map": "/react-portfolio/static/js/main.a6621b2d.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.905ee9e8.css",
-    "static/js/main.620ec14f.js"
+    "static/js/main.a6621b2d.js"
   ]
 }
